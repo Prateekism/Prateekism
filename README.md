@@ -4,6 +4,10 @@
 
 Currently contracting remotely for a US-based PropTech company as SD3, engineering Angular 20 features with Strapi CMS and Azure. Previously at Standard Chartered (Solv), HARMAN Connected Services, and Genpact.
 
+In 7 years, I've taken apps from 0 to production, pushed test coverage from 40% → 90%+, cut load times by 20%, and built component libraries adopted by multiple teams — all while working across fintech, automotive, real estate, and e-commerce domains.
+
+🟢 **Available for freelance projects** — Angular architecture, frontend consulting, code reviews, and UI component development. I work async-first and have proven delivery across US and EU timezones.
+
 ---
 
 ### 🛠 Tech I work with daily
